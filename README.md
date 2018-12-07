@@ -1,6 +1,6 @@
 # Portfolio
 
-Al Young <br>
+<strong>Al Young</strong> <br>
 Full Stack Web Developer <br>
 packleader206@gmail.com
 
