@@ -17,3 +17,8 @@ packleader206@gmail.com
 - API
 - Node.js
 - Moment.js
+- mySQL
+- Express Server
+- Sequelize
+- Handlebars
+- MongoDB
